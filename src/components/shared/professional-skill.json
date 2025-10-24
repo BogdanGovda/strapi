@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_professional_skills",
+  "info": {
+    "displayName": "professional-skill"
+  },
+  "options": {},
+  "attributes": {
+    "skill": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

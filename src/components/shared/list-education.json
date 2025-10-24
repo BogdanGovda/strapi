@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_list_educations",
+  "info": {
+    "displayName": "listEducation"
+  },
+  "options": {},
+  "attributes": {
+    "years": {
+      "type": "biginteger"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

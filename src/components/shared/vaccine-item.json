@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_vaccine_items",
+  "info": {
+    "displayName": "vaccineItem"
+  },
+  "options": {},
+  "attributes": {
+    "itemTitle": {
+      "type": "string"
+    },
+    "list": {
+      "type": "component",
+      "component": "shared.service-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

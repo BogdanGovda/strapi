@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_service_items",
+  "info": {
+    "displayName": "serviceItem"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "biginteger"
+    }
+  },
+  "config": {}
+}

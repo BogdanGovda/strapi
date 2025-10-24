@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vaccine_categories",
+  "info": {
+    "singularName": "vaccine-category",
+    "pluralName": "vaccine-categories",
+    "displayName": "VaccineCategory"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "itemList": {
+      "type": "component",
+      "component": "shared.vaccine-item",
+      "repeatable": true
+    }
+  }
+}

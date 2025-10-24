@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_specializations",
+  "info": {
+    "displayName": "specializations"
+  },
+  "options": {},
+  "attributes": {
+    "specialization": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

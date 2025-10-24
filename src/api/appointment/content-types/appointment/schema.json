@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "appointments",
+  "info": {
+    "singularName": "appointment",
+    "pluralName": "appointments",
+    "displayName": "appointment"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "branch": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "pet": {
+      "type": "string"
+    },
+    "message": {
+      "type": "text"
+    },
+    "consent": {
+      "type": "boolean"
+    }
+  }
+}

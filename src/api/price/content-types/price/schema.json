@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "prices",
+  "info": {
+    "singularName": "price",
+    "pluralName": "prices",
+    "displayName": "ServiceCategory"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "items": {
+      "type": "component",
+      "component": "shared.service-item",
+      "repeatable": true
+    }
+  }
+}
